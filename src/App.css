@@ -1,0 +1,29 @@
+/* src/components/WeatherApp.css */
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  padding: 10px;
+  margin: 10px 0;
+  width: 80%;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.weather-info {
+  margin-top: 20px;
+}
+
+p {
+  font-size: 1.2em;
+}
